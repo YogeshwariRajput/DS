@@ -1,6 +1,6 @@
 import mpi.*;
 
-public class DistributedSum1 {
+public class DistributedSum3 {
     public static void main(String[] args) throws Exception {
 
         MPI.Init(args);
